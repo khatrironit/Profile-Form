@@ -1,0 +1,32 @@
+.App{
+  background-color: lightpink;
+  padding: 100px;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.form{
+  background-color: lightgrey;
+  border-radius: 25px;
+  padding: 20px;
+}
+input{
+  padding: 5px;
+  border-radius: 10px;
+  background-color: lightblue;
+  border: none;
+  width: 80%;
+}
+.profile{
+  border-radius: 50%;
+  max-height: 200px;
+  max-width: 200px;
+  margin: auto;
+  border: 1px solid gray;
+}
+.skillspan{
+  padding: 5px;
+  font-weight: bold;
+  background-color: grey;
+  border-radius: 5px;
+  margin: 5px;
+}
